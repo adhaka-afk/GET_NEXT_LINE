@@ -46,12 +46,8 @@ cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line.c get_next_line_utils.c
 
 ## 🚀 Next Project
 
-MiniTalk
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[minitalk](https://github.com/adhaka-afk/MINI_TALK)
 
 ## ⏳ Previous Project
 
-Printf
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[ft_printf](https://github.com/adhaka-afk/FT_PRINTF)
